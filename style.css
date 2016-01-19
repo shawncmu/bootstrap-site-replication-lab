@@ -1,0 +1,75 @@
+.container-fluid {
+  padding: 10px;
+}
+.wrapper {
+  background: white;
+}
+
+#dropdownMenu1 {
+  background-color: red;
+}
+footer ul li {
+  display: inline;
+}
+footer ul li a {
+  color: #888;
+  text-decoration: none;
+  font-family: "Shentox Medium',sans-serif";
+}
+
+hr {
+  clear: both;
+  border-color: #888;
+}
+footer p {
+  color: #888;
+}
+
+.unicorn {
+  height: 500px;
+  background-image: url("http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2014/08/unicorn.png");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.rightmain, .leftmain {
+  height: 500px;
+}
+
+.rightA {
+  height: 250px;
+  background-image: url("http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/01/Incognito.jpg");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.rightB {
+  height: 250px;
+  background-image: url("http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/01/shutterstock_306793247.jpg");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.rightC {
+  height: 250px;
+  background-image: url("http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2014/12/1210_googlecardboard.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.stories {
+  clear: both;
+}
+
+footer {
+    background-color: #000;
+    border-bottom: 4px solid #ff4020;
+    color: #888;
+    padding: 2rem 0;
+    position: relative;
+    text-align: center;
+    z-index: 100;
+}
